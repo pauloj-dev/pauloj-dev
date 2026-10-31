@@ -21,7 +21,7 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=pauloj-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=4A90E2&icon_color=F5C842&text_color=8BA4C7&rank_icon=github&locale=pt-br&hide=contribs&card_width=300" alt="GitHub Stats" />
 
-Oi! Sou o **Paulo José**, estudante de **Analise e Desenvolvimento de Sistemas**, **Engenharia de Software** e de **Jogos Digitais**.
+Oi! Sou o **Paulo José**, estudante de **Desenvolvimento de Sistemas**, **Engenharia de Software** e de **Jogos Digitais**.
 
 - 🎮 Estudando desenvolvimento de jogos
 - 📱 Construindo apps mobile com Flutter
@@ -57,7 +57,6 @@ Oi! Sou o **Paulo José**, estudante de **Analise e Desenvolvimento de Sistemas*
 <p align="center">
   <img src="https://img.shields.io/badge/Godot_Engine-F5D76E?style=for-the-badge&logo=godotengine&logoColor=1F3A5F" alt="Godot Engine" />
   <img src="https://img.shields.io/badge/Antigravity-F5D76E?style=for-the-badge&logo=google&logoColor=1F3A5F" alt="Antigravity" />
-  <img src="" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F5D76E?style=for-the-badge&logo=git&logoColor=1F3A5F" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-F5D76E?style=for-the-badge&logo=github&logoColor=1F3A5F" alt="GitHub" />
 </p>
