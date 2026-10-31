@@ -21,9 +21,7 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=pauloj-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=4A90E2&icon_color=F5C842&text_color=8BA4C7&rank_icon=github&locale=pt-br&hide=contribs&card_width=300" alt="GitHub Stats" />
 
-Oi! Sou o **Paulo José**, estudante de **Jogos Digitais** e **Programação Mobile**.
-
-Meu tempo se divide entre dois lados: na **Godot** eu mexo com jogos e GDScript, e no **Flutter** construo apps em Dart. No meio do caminho entram Python, Java, C#, JavaScript e SQL, conforme o projeto pede.
+Oi! Sou o **Paulo José**, estudante de **Analise e Desenvolvimento de Sistemas**, **Engenharia de Software** e de **Jogos Digitais**.
 
 - 🎮 Estudando desenvolvimento de jogos
 - 📱 Construindo apps mobile com Flutter
