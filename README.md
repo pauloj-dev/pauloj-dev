@@ -57,7 +57,7 @@ Oi! Sou o **Paulo José**, estudante de **Analise e Desenvolvimento de Sistemas*
 <p align="center">
   <img src="https://img.shields.io/badge/Godot_Engine-F5D76E?style=for-the-badge&logo=godotengine&logoColor=1F3A5F" alt="Godot Engine" />
   <img src="https://img.shields.io/badge/Antigravity-F5D76E?style=for-the-badge&logo=google&logoColor=1F3A5F" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/VS_Code-F5D76E?style=for-the-badge&logo=vscodium&logoColor=1F3A5F" alt="VS Code" />
+  <img src="" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F5D76E?style=for-the-badge&logo=git&logoColor=1F3A5F" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-F5D76E?style=for-the-badge&logo=github&logoColor=1F3A5F" alt="GitHub" />
 </p>
@@ -93,23 +93,6 @@ Oi! Sou o **Paulo José**, estudante de **Analise e Desenvolvimento de Sistemas*
     </td>
   </tr>
 </table>
-
-## ✦ Números
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloj-dev&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=4A90E2&text_color=8BA4C7&locale=pt-br" alt="Top Languages" />
-  <img height="165" src="https://streak-stats.demolab.com?user=pauloj-dev&locale=pt_BR&hide_border=true&background=00000000&ring=4A90E2&fire=F5C842&currStreakNum=4A90E2&sideNums=4A90E2&currStreakLabel=F5C842&sideLabels=8BA4C7&dates=8BA4C7&stroke=8BA4C7" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pauloj-dev&bg_color=00000000&color=8BA4C7&line=4A90E2&point=F5C842&area=true&area_color=4A90E2&title_color=4A90E2&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%20dias" alt="Activity Graph" />
-</p>
-
-## ✦ Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pauloj-dev&theme=flat&no-bg=true&no-frame=true&column=6&margin-w=8" alt="GitHub Trophies" />
-</p>
 
 ## ✦ Contribuições
 
